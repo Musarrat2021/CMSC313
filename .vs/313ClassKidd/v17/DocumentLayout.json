@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mushf\\313ClassKidd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mushf\\313ClassKidd\\313ClassKidd\\addmats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:313ClassKidd\\addmats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mushf\\313ClassKidd\\313ClassKidd\\addmatsSubr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:313ClassKidd\\addmatsSubr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mushf\\313ClassKidd\\313ClassKidd\\addmatsSimple.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:313ClassKidd\\addmatsSimple.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addmatsSubr.c",
+              "DocumentMoniker": "C:\\Users\\mushf\\313ClassKidd\\313ClassKidd\\addmatsSubr.c",
+              "RelativeDocumentMoniker": "313ClassKidd\\addmatsSubr.c",
+              "ToolTip": "C:\\Users\\mushf\\313ClassKidd\\313ClassKidd\\addmatsSubr.c",
+              "RelativeToolTip": "313ClassKidd\\addmatsSubr.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-04T16:41:39.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "addmats.cpp",
+              "DocumentMoniker": "C:\\Users\\mushf\\313ClassKidd\\313ClassKidd\\addmats.cpp",
+              "RelativeDocumentMoniker": "313ClassKidd\\addmats.cpp",
+              "ToolTip": "C:\\Users\\mushf\\313ClassKidd\\313ClassKidd\\addmats.cpp",
+              "RelativeToolTip": "313ClassKidd\\addmats.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-04T16:41:35.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "addmatsSimple.c",
+              "DocumentMoniker": "C:\\Users\\mushf\\313ClassKidd\\313ClassKidd\\addmatsSimple.c",
+              "RelativeDocumentMoniker": "313ClassKidd\\addmatsSimple.c",
+              "ToolTip": "C:\\Users\\mushf\\313ClassKidd\\313ClassKidd\\addmatsSimple.c",
+              "RelativeToolTip": "313ClassKidd\\addmatsSimple.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-04T16:37:46.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
