@@ -18,3 +18,5 @@ In addmatsSubr.c, the matrix addition is performed in a separate function, which
 This extra function call makes the assembly code slightly longer than addmatsSimple.c, but still shorter than the C++ version.
 The function itself operates similarly to the loop in addmatsSimple.c, adding values from two arrays and storing the result.
 The assembly shows the function call and return, but does not involve any object management, keeping it simpler than the C++ version.
+4. 'basic.c'
+Here C code turns into a bunch of detailed steps in assembly, code like a = a, becomes a precise command for the computer. The assembly lasnguage carries out each instructions one step at a time.
